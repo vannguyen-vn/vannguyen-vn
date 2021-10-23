@@ -1,6 +1,4 @@
 ## Hi, I’m Van 👋
-
-### Contact
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vannguyen-home/)](https://www.linkedin.com/in/vannguyen-home/)
 
 ### About Me
