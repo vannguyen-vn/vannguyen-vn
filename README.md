@@ -2,8 +2,8 @@
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vannguyen-home/)](https://www.linkedin.com/in/vannguyen-home/)
 
 ### About Me
-- I am a web designer and front end developer for more 3 years.
-- I’m interested in UI/Ux design,JavaScript, React, HTML/SCSS, node.js,...
+- I am a software engineer. I have been a web designer and front end developer for more 3 years.
+- I’m interested in JavaScript, React, HTML/SCSS, node.js, UI/Ux...
 - I’m looking to collaborate on web development.
  
 ---
